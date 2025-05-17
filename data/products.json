@@ -1,0 +1,12 @@
+[
+  {
+    "position": 1,
+    "name": "MagnaRest",
+    "slug": "magna-rest",
+    "description": "Melatonin-free magnesium sleep support for women over 40",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/magna-rest.png",
+    "target_audience_match": "Waking at 3am with restless sleep due to hormonal or age-related changes",
+    "price": "$29/mo",
+    "data-link": "pending"
+  }
+]
